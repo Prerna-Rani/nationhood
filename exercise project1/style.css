@@ -1,0 +1,63 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.full_width{
+    width: 100%;
+    height: auto;
+    background: white;
+}
+
+.fix_width{
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    background: none;
+    padding: 10px;
+}
+
+.contentent{
+    background: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box-1{
+    width: 55%;
+    background: none;
+    height: auto;
+}
+
+.box-2{
+    width: 40%;
+    background: none;
+    height: auto;
+}
+
+.main_img{
+    width: 100%;
+    height: auto;
+}
+
+.main_imag{
+    width: 100%;
+    height: auto;
+}
+
+.button{
+    background: red;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.button_section{
+    margin-top: 50px;
+}
+.button {
+    background: red;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 140px;
+}
